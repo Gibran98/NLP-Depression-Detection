@@ -26,7 +26,7 @@ Ambas secciones se explican en detalle dentro del Notebook.
 Dentro de este mismo repositorio se encuentra el póster académico que se realizó. Checar el archivo **Poster Academico A01282778.pdf**.
 
 ## Notas adicionales
-- La base de datos utilizada se puede encontar en la siguiente [liga](https://www.kaggle.com/nikhileswarkomati/suicide-watch).
+- La base de datos utilizada se puede encontar en la siguiente [liga](https://www.kaggle.com/nikhileswarkomati/suicide-watch/version/13).
 - Los archivos presentes en el folder **Data** deben cargarse en el **folder raíz** de Google Collab. Si se carga el folder Data directamente
 el Notebook no leerá los archivos correctamente.
 - Es necesario proporcionar un **client_id** y un **client_secret** del API de Reddit. Se puede crear una App con esos datos en la siguiente [liga](https://ssl.reddit.com/prefs/apps/). Es necesario contar con una cuenta de Reddit para poder crear la app.
